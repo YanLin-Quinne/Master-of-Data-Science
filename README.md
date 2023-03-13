@@ -18,7 +18,7 @@ Received mark: 76. 'There are essentially no deductions for the code section'
 
 ## Introduction to Statistics for Data Science
 
-`Assignment 2(Yan Lin).pdf`
+`ISDS_Assignment2.R` and `Assignment 2(Yan Lin).pdf` 
 
 Received mark: 74. 
 
