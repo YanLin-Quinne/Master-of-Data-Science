@@ -3,6 +3,24 @@ Code and reports submitted for the Master of Data Science course (2022-2023, Uni
 
 I am currently continuing my course work and dissertation project, so the code is not yet complete.
 
+## Machine Learning
+`ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
+
+## Programming for Data Science
+`Programming.ipynb` and `Programming_Report.pdf`
+
+Received mark: 82.5. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
+
+## Introduction to Computer Science
+`ICS_Coursework.ipynb`
+
+Received mark: 76. 'There are essentially no deductions for the code section'
+
+## Introduction to Statistics for Data Science
+
+`Assignment 2(Yan Lin).pdf`
+
+Received mark: 74. 
 
 ## Current Known Transcript
 
