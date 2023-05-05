@@ -9,7 +9,7 @@ I am currently continuing my course work and dissertation project, so the code i
 ## Programming for Data Science
 `Programming.ipynb` and `Programming_Report.pdf`
 
-Received mark: 82.5. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
+Received mark: 83. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
 
 ## Introduction to Computer Science
 `ICS_Coursework.ipynb`
