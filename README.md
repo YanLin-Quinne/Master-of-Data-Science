@@ -32,7 +32,7 @@ Received mark: 74.
 | Strategic Leadership | 15 | 68.80% |
 | Ethics and Bias in Data Science | 15 | 54% |
 | Programming for Data Science | 15 | 82.50% |
-| Machine Learning | 15 | Not yet 89.80% |
+| Machine Learning | 15 | 89.80% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 79.50% |
 | Critical Perspectives in Data Science | 15 | in progress |
 | Data Science Research Project | 45 | in progress |
