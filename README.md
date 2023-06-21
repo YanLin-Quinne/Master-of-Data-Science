@@ -28,13 +28,13 @@ Received mark: 74.
 
 | Module Title  | Credits       | Mark  |
 | ------------- |:-------------:| -----:|
-| Introduction to Mathematics for Data Science | 15 | 91.25% |
+| Introduction to Mathematics for Data Science | 15 | 92% |
 | Introduction to Computer Science | 15 | 76% |
-| Introduction to Statistics for Data Science | 15 | 82.25% |
-| Strategic Leadership | 15 | 68.80% |
+| Introduction to Statistics for Data Science | 15 | 83% |
+| Strategic Leadership | 15 | 69% |
 | Ethics and Bias in Data Science | 15 | 54% |
-| Programming for Data Science | 15 | 82.50% |
-| Machine Learning | 15 | 89.80% |
-| Data Exploration, Visualization and Unsupervised Learning | 15 | 79.50% |
-| Critical Perspectives in Data Science | 15 | in progress |
+| Programming for Data Science | 15 | 83% |
+| Machine Learning | 15 | 90% |
+| Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
+| Critical Perspectives in Data Science | 15 | not yet released |
 | Data Science Research Project | 45 | in progress |
