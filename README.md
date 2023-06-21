@@ -1,7 +1,7 @@
 # Master-of-Data-Science
 Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
 
-I am currently continuing my course work and dissertation project, so the code is not yet complete.
+I am currently continuing my dissertation project, so the code is not yet complete.
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
@@ -22,7 +22,7 @@ Received mark: 76. 'There are essentially no deductions for the code section'
 
 `ISDS_Assignment2.R` and `ISDS_Assignment 2(Yan Lin).pdf` 
 
-Received mark: 74. 
+Received mark: 74. 'A very clear and proven report'
 
 ## Current Known Transcript
 
