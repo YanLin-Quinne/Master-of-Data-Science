@@ -30,8 +30,8 @@ Received mark: 74. 'A very clear and proven report'
 | ------------- |:-------------:| -----:|
 | Introduction to Mathematics for Data Science | 15 | 92% |
 | Introduction to Computer Science | 15 | 76% |
-| Introduction to Statistics for Data Science | 15 | 83% |
-| Strategic Leadership | 15 | 69% |
+| Introduction to Statistics for Data Science | 15 | 82% |
+| Strategic Leadership | 15 | 70% |
 | Ethics and Bias in Data Science | 15 | 54% |
 | Programming for Data Science | 15 | 83% |
 | Machine Learning | 15 | 90% |
