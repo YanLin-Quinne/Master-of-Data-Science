@@ -36,5 +36,5 @@ Received mark: 74. 'A very clear and proven report'
 | Programming for Data Science | 15 | 83% |
 | Machine Learning | 15 | 90% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
-| Critical Perspectives in Data Science | 15 | not yet released |
+| Critical Perspectives in Data Science | 15 | 76% |
 | Data Science Research Project | 45 | in progress |
