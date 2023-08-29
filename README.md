@@ -13,6 +13,12 @@ Received mark: 83.
 
 Received mark: 82.5. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
 
+## Data Exploration, Visualization and Unsupervised Learning
+`DEVUL-Assignment1-Code.R` and `DEVUL-Report1.pdf` 
+`DEVUL_Assignment2_Code.R` and `Assignment2-VULA.pdf`
+
+Received mark: 85.
+
 ## Introduction to Computer Science
 `ICS_Coursework.ipynb`
 
@@ -23,6 +29,8 @@ Received mark: 76. 'There are essentially no deductions for the code section'
 `ISDS_Assignment2.R` and `ISDS_Assignment 2(Yan Lin).pdf` 
 
 Received mark: 74. 'A very clear and proven report'
+
+
 
 ## Current Known Transcript
 
