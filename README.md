@@ -14,7 +14,8 @@ Received mark: 83.
 Received mark: 82.5. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
 
 ## Data Exploration, Visualization and Unsupervised Learning
-`DEVUL-Assignment1-Code.R` and `DEVUL-Report1.pdf` 
+`DEVUL-Assignment1-Code.R` and `DEVUL-Report1.pdf` ,
+
 `DEVUL_Assignment2_Code.R` and `Assignment2-VULA.pdf`
 
 Received mark: 85.
