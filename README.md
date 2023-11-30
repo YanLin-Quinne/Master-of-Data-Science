@@ -46,4 +46,4 @@ Received mark: 74. 'A very clear and proven report'
 | Machine Learning | 15 | 90% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
-| Data Science Research Project | 45 | in progress |
+| Data Science Research Project | 45 | 62 |
