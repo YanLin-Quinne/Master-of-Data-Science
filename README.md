@@ -33,7 +33,8 @@ Received mark: 74. 'A very clear and proven report'
 
 
 ## Transcript
-#Average score in courses other than dissertation: 78%
+
+Average score in courses other than dissertation: 78%
 
 | Module Title  | Credits       | Mark  |
 | ------------- |:-------------:| -----:|
