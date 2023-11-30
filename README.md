@@ -1,7 +1,6 @@
 # Master-of-Data-Science
 Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
 
-I am currently continuing my dissertation project, so the code is not yet complete.
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
@@ -46,4 +45,4 @@ Received mark: 74. 'A very clear and proven report'
 | Machine Learning | 15 | 90% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
-| Data Science Research Project | 45 | 62 |
+| Data Science Research Project | 45 | 62% |
