@@ -1,7 +1,6 @@
 # Master-of-Data-Science
 Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
 
-Average score in courses other than dissertation: 78
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
@@ -33,7 +32,8 @@ Received mark: 74. 'A very clear and proven report'
 
 
 
-## Current Known Transcript
+## Transcript
+#Average score in courses other than dissertation: 78%
 
 | Module Title  | Credits       | Mark  |
 | ------------- |:-------------:| -----:|
