@@ -34,6 +34,8 @@ Received mark: 74. 'A very clear and proven report'
 
 2.5 hours online exam mark: 98%
 
+`IMDS_group_project_python.ipynb` and `IMDS_group_project_report.pdf` Received mark: 78% & 73%
+
 
 
 ## Transcript
@@ -51,4 +53,4 @@ Average score in courses other than dissertation: 78%
 | Machine Learning | 15 | 90% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
-| Data Science Research Project | 45 | in progress |
+| Data Science Research Project | 45 | 62% |
