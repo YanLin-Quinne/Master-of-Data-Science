@@ -30,6 +30,10 @@ Received mark: 76. 'There are essentially no deductions for the code section'
 
 Received mark: 74. 'A very clear and proven report'
 
+## Introduction to Mathematics for Data Science
+
+2.5 hours online exam mark: 98%
+
 
 
 ## Transcript
