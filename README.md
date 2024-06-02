@@ -6,6 +6,12 @@ Code and reports submitted for the Master of Data Science course (2022-2023, Uni
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
 
 Received mark: 83.
+Overall mark: 90. First in my cohort.
+
+## Critical Perspective in Data Science
+`Critical Perspective Assignment Yan.pdf`
+
+Received mark: 76. First in my cohort, Examples of the next cohort.
 
 ## Programming for Data Science
 `Programming.ipynb` and `Programming_Report.pdf`
