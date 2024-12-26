@@ -1,5 +1,6 @@
 # Master-of-Data-Science
 Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
+All the working materials have been uploaded to the Durham University database and are protected by copyright.
 
 
 ## Machine Learning
