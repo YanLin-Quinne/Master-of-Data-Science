@@ -61,3 +61,13 @@ Average score in courses other than dissertation: 78%
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
 | Data Science Research Project | 45 | 62% |
+
+---
+
+## Licence
+This project is distributed under the [MIT License](./LICENSE).
+
+**When using or redistributing this work, please retain the following information:**
+- Original Author: Yan Lin
+- Institution: Durham University
+- This licence statement
