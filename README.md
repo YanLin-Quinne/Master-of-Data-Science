@@ -2,6 +2,13 @@
 Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
 All the working materials have been uploaded to the Durham University database and are protected by copyright.
 
+## Licence
+This project is distributed under the [MIT License](./LICENSE).
+
+**When using or redistributing this work, please retain the following information:**
+- Original Author: Yan Lin
+- Institution: Durham University
+- This licence statement
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
@@ -62,12 +69,3 @@ Average score in courses other than dissertation: 78%
 | Critical Perspectives in Data Science | 15 | 76% |
 | Data Science Research Project | 45 | 62% |
 
----
-
-## Licence
-This project is distributed under the [MIT License](./LICENSE).
-
-**When using or redistributing this work, please retain the following information:**
-- Original Author: Yan Lin
-- Institution: Durham University
-- This licence statement
