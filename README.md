@@ -67,5 +67,5 @@ Average score in courses other than dissertation: 78%
 | Machine Learning | 15 | 90% |
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
-| Data Science Research Project | 45 | 62% |
+
 
