@@ -27,7 +27,7 @@ Overall mark: 90. **First in my cohort.**
 ## ANTH40A15: Critical Perspective in Data Science
 `Critical Perspective Assignment Yan.pdf`
 
-Received mark: 76. First in my cohort, Examples of the next cohort.
+Received mark: 76. **First in my cohort, Examples of the next cohort (MDS 2023-2024).**
 
 ## COMP42315: Programming for Data Science
 `Programming.ipynb` and `Programming_Report.pdf`
