@@ -15,11 +15,14 @@ This project is distributed under the [MIT License](./LICENSE).
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
-https://apps.dur.ac.uk/faculty.handbook/2022/PG/module/MATH42815
-Teacher: Dr Sam Jackson and Dr Hailiang Du
+
+Course details: https://apps.dur.ac.uk/faculty.handbook/2022/PG/module/MATH42815
+
+Teacher: [Dr Sam Jackson](https://www.durham.ac.uk/staff/samuel-e-jackson/) and [Dr Hailiang Du](https://www.durham.ac.uk/staff/hailiang-du/)
+
 
 Received mark: 83.
-Overall mark: 90. First in my cohort.
+Overall mark: 90. ##First in my cohort.##
 
 ## Critical Perspective in Data Science
 `Critical Perspective Assignment Yan.pdf`
