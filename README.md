@@ -83,4 +83,11 @@ Average score in courses other than dissertation: 78%
 | Data Exploration, Visualization and Unsupervised Learning | 15 | 80% |
 | Critical Perspectives in Data Science | 15 | 76% |
 
+## Acknowledgements
+
+I am deeply grateful to my teachers during the MSc in Data Science at Durham University.  
+- [Prof. Camila Caiado](https://www.durham.ac.uk/staff/c-c-d-s-caiado/), programme director, who gave me valuable advice on my doctoral choices and academic career path.  
+- [Dr Hailiang Du](https://www.durham.ac.uk/staff/hailiang-du/) and [Dr Sarah Heaps](https://www.durham.ac.uk/staff/sarah-e-heaps/), who kindly served as referees for my PhD applications and supported me with multiple recommendation letters.  
+
+I will always remain grateful for their generous guidance and support.
 
