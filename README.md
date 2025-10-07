@@ -1,6 +1,9 @@
 # Master-of-Data-Science
-Code and reports submitted for the Master of Data Science course (2022-2023, University of Durham)
+Code and reports submitted for the Master of Data Science course (Quinne Yan Lin, 2022-2023, University of Durham)
 All the working materials have been uploaded to the Durham University database and are protected by copyright.
+
+Master's programme details: https://www.durham.ac.uk/study/courses/master-of-data-science-g5k823/
+
 
 ## Licence
 This project is distributed under the [MIT License](./LICENSE).
@@ -12,6 +15,8 @@ This project is distributed under the [MIT License](./LICENSE).
 
 ## Machine Learning
 `ML-Python.ipynb`, `ML-R.R` and `Machine Learning.pdf`
+https://apps.dur.ac.uk/faculty.handbook/2022/PG/module/MATH42815
+Teacher: Dr Sam Jackson and Dr Hailiang Du
 
 Received mark: 83.
 Overall mark: 90. First in my cohort.
@@ -23,6 +28,8 @@ Received mark: 76. First in my cohort, Examples of the next cohort.
 
 ## Programming for Data Science
 `Programming.ipynb` and `Programming_Report.pdf`
+https://apps.dur.ac.uk/faculty.handbook/2022/PG/module/COMP42315
+Teacher: Professor Hubert Shum and Dr Gagangeet Aujla
 
 Received mark: 82.5. 'The visualization task in question 3 is perfect, as is the Bayesian network in question 4'
 
@@ -35,12 +42,15 @@ Received mark: 85.
 
 ## Introduction to Computer Science
 `ICS_Coursework.ipynb`
+https://apps.dur.ac.uk/faculty.handbook/2022/PG/module/COMP42215
 
 Received mark: 76. 'There are essentially no deductions for the code section'
 
 ## Introduction to Statistics for Data Science
 
 `ISDS_Assignment2.R` and `ISDS_Assignment 2(Yan Lin).pdf` 
+
+Teacher: Dr Tahani Coolen-Maturi and Dr Sarah Heaps
 
 Received mark: 74. 'A very clear and proven report'
 
