@@ -2,8 +2,7 @@
 Code and reports submitted for the Master of Data Science course (Quinne Yan Lin, 2022-2023, University of Durham)
 All the working materials have been uploaded to the Durham University database and are protected by copyright.
 
-[Master's programme details](https://www.durham.ac.uk/study/courses/master-of-data-science-g5k823/), 
-Master's programme director: [Prof. Camila Caiado](https://www.durham.ac.uk/staff/c-c-d-s-caiado/)
+[Master's programme details](https://www.durham.ac.uk/study/courses/master-of-data-science-g5k823/)
 
 ## Licence
 This project is distributed under the [MIT License](./LICENSE).
